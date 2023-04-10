@@ -1,6 +1,6 @@
 # dannys_diner_sql
-https://8weeksqlchallenge.com/case-study-1/
 ![1](https://user-images.githubusercontent.com/81466585/230935737-81e976c4-6cfa-4b10-972e-ebeb541f544c.png)
+              https://8weeksqlchallenge.com/case-study-1/
                                   
                                   
                                                        Introduction
